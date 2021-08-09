@@ -1,0 +1,24 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dianaiminza/travel-and-tours.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dianaiminza/travel-and-tours/issues"
+  },
+  "homepage": "https://Dianaiminza.github.io/travel-and-tours",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
